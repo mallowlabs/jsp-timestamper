@@ -41,9 +41,9 @@ For example, JSP_DIRECTORY_PATH: ```/usr/local/tomcat/webapps/your-app/WEB-INF/p
 
 IMPORTANT: You must run this tool BEFORE any web accesses. (i.e. before JSP pre-compile)
 
-## Licence
+## License
 
-[ MIT Licence](https://github.com/mallowlabs/jsp-timestamper/blob/master/LICENCE.txt)
+[ MIT License](https://github.com/mallowlabs/jsp-timestamper/blob/master/LICENSE.txt)
 
 ## Author
 
